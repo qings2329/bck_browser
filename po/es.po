@@ -23,16 +23,16 @@ msgstr "404 Página no encontrada :("
 #: public/views/index.html
 msgid ""
 "<strong>insight</strong>  is an <a href=\"http://live.insight.is/\" target="
-"\"_blank\">open-source Bitcoin blockchain explorer</a> with complete REST "
+"\"_blank\">open-source BtcKing blockchain explorer</a> with complete REST "
 "and websocket APIs that can be used for writing web wallets and other apps  "
 "that need more advanced blockchain queries than provided by bitcoind RPC.  "
 "Check out the <a href=\"https://github.com/bitpay/insight-ui\" target=\"_blank"
 "\">source code</a>."
 msgstr ""
 "<strong>insight</strong>  es un <a href=\"http://live.insight.is/\" target="
-"\"_blank\">explorador de bloques de Bitcoin open-source</a> con un completo "
+"\"_blank\">explorador de bloques de BtcKing open-source</a> con un completo "
 "conjunto de REST y APIs de websockets que pueden ser usadas para escribir "
-"monederos de Bitcoins y otras aplicaciones que requieran consultar un "
+"monederos de BtcKings y otras aplicaciones que requieran consultar un "
 "explorador de bloques.  Obtén el código en <a href=\"http://github.com/"
 "bitpay/insight\" target=\"_blank\">el repositorio abierto de Github</a>."
 
@@ -69,7 +69,7 @@ msgstr "Mejor Bloque"
 
 #: public/views/status.html
 msgid "BCK node information"
-msgstr "Información del nodo Bitcoin"
+msgstr "Información del nodo BtcKing"
 
 #: public/views/block.html
 msgid "Block"
@@ -195,8 +195,8 @@ msgid "Last Block"
 msgstr "Último Bloque"
 
 #: public/views/status.html
-msgid "Last Block Hash (Bitcoind)"
-msgstr "Último Bloque Hash (Bitcoind)"
+msgid "Last Block Hash (BtcKingd)"
+msgstr "Último Bloque Hash (BtcKingd)"
 
 #: public/views/index.html
 msgid "Latest Blocks"
